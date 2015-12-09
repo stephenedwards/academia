@@ -20,6 +20,11 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  menu:
+    home: Home
+    vision: My Vision
+    pedagogy: Pedagogy
+    levels: Levels
   home:
     title: "The most important has always been there. Your talent and your passion."
     passage1: "Private customers want to be operational as fast as possible and use their new language competences in a sustainable way-"
@@ -29,3 +34,8 @@ en:
     passage5: "A wide range of on-the-job tools prepares students to communicate effectively in a business environment:"    	
     title2: Here is the fitting language course for you! 
     title3: A customized language program.
+  vision: 
+    title: My Vision
+    passage1: "In school, when I was a little boy, I already was different from my class mates. I was completely different and I always had the desire to inspire others. Seeing the bright eyes of my friends when they were building their sand castles was making me happy.\n\r And this wish to inspire others brought me to set up a concept allowing children, teenagers and adults to learn a language in a fast and sustainable way. It seems that my competitors only see the result of my work, the results of my students and are afraid to loose some part of the market. This is certainly justified but in fact the success belongs to my students. And somewhere inside of myself there still is this little boy happy to see the bright eyes around him.."
+  routes:
+    vision: My-Vision
