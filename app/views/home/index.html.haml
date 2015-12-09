@@ -1,0 +1,32 @@
+.home-wrapper
+  .banner-wrapper{:style => "background-image: url('"+image_url('banner1.jpg')+"');"}    
+    .text
+      %span{:style => "color:#e89100"}Successful
+      %span{:style => "color:#b2d79a"}learning
+      %br      
+      %small in small groups
+  .small-12.columns
+    %h2 About Academia
+  .medium-6.small-12.columns    
+    %iframe{:width => "100%", :height => "250", :src => "https://www.youtube.com/embed/oUfnMf9Zw00", :allowfullscreen => true}
+  .medium-6.small-12.columns
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada leo lobortis mauris facilisis efficitur. Quisque tempus, sapien nec ornare varius, orci libero dapibus mi, viverra lacinia turpis eros volutpat magna. Aenean ornare pulvinar feugiat. Pellentesque arcu sem, euismod vitae accumsan eu, gravida quis risus. Donec mollis nisi ut libero scelerisque feugiat. Aliquam feugiat nisi dui, at lobortis mauris tempus a. Nam a imperdiet metus, non blandit neque. Etiam ante felis, pretium et hendrerit non, tristique et nunc. Suspendisse potenti. Aliquam sollicitudin id est ut tempus.
+  .small-12.columns
+    %h2 Services
+  .medium-4.columns
+    .callout.service
+      %h3 Beginners
+      You are a beginner and you want to learn quickly Luxembourgish, German or French.
+      =link_to 'Opt in', '#', :class => "small button"
+  .medium-4.columns
+    .callout.service
+      %h3 Intermediates
+      You already have some basic competences in Luxembourgish, German or French.
+      =link_to 'Opt in', '#', :class => "small button"
+  .medium-4.columns
+    .callout.service
+      %h3 Group courses
+      You are a HR professionnel and on the look out for a luxembourgish, german or french course for your staff.
+      =link_to 'Opt in', '#', :class => "small button"
+
+  
