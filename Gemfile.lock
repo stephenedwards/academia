@@ -146,6 +146,7 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
   haml
+  i18n
   jbuilder (~> 2.0)
   jquery-rails
   pg
