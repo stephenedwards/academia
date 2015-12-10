@@ -18,3 +18,4 @@
 //= require foundation/foundation.util.mediaQuery
 //= require foundation/foundation.util.triggers
 //= require foundation/foundation.sticky
+$(document).foundation();

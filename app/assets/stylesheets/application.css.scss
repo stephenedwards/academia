@@ -16,8 +16,12 @@
 @import 'foundation/foundation';
 @include foundation-everything;
 
-body{
+body, .off-canvas-content{
   background-color:#cccccc;  
+}
+
+.off-canvas.position-left#leftMenu{
+  position:fixed !important;
 }
 
 .row{
@@ -32,8 +36,7 @@ body{
     overflow:hidden;
     background-color:#e89100;
     padding:15px;
-    min-height:150px;
-    margin-bottom:30px;
+    min-height:150px;    
     .columns{
       h5{
         margin:0;

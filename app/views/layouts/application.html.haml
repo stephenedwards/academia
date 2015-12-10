@@ -6,11 +6,16 @@
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true    
     = csrf_meta_tags
   %body
-    =render "layouts/topbar"     
-    .row
-      .content 
-        = yield
-    .row
-      .footer
-        =render 'layouts/footer'
-    = javascript_include_tag 'application', 'data-turbolinks-track' => true
+    .off-canvas-wrapper
+      .off-canvas-wrapper-inner{:"data-off-canvas-wrapper" => true}
+        .off-canvas.position-left#leftMenu{:"data-off-canvas" => true}
+          This is the menu
+        .off-canvas-content#site{:"data-off-canvas-content" => true}
+          =render "layouts/topbar"     
+          .row
+            .content 
+              = yield
+          .row
+            .footer
+              =render 'layouts/footer'
+          = javascript_include_tag 'application', 'data-turbolinks-track' => true

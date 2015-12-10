@@ -3,10 +3,20 @@
   height: 100px;
   background-color:#ffffff;
 }
-
+.sticky-wrapper{
+  width:100%;  
+  position:relative;
+}
 .top-bar{  
-  padding:0 !important;
-  background-color:#e89100 !important;
+  width:100%;  
+  padding:0 !important;  
+  .top-bar-left{
+    background-color:#e89100 !important;
+    width:100%;
+  }
+  button.menu-icon{
+    margin:16px;
+  }
   ul{
     background-color:#e89100 !important;  
     li{
