@@ -8,6 +8,8 @@ Rails.application.routes.draw do
     get '/', :to => "home#index"
     localized do
       get 'vision', :to => "vision#index"
+      get 'pedagogy', :to => "pedagogy#index"
+      get 'levels', :to => "levels#index"
     end
   end
 

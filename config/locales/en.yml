@@ -37,5 +37,29 @@ en:
   vision: 
     title: My Vision
     passage1: "In school, when I was a little boy, I already was different from my class mates. I was completely different and I always had the desire to inspire others. Seeing the bright eyes of my friends when they were building their sand castles was making me happy.\n\r And this wish to inspire others brought me to set up a concept allowing children, teenagers and adults to learn a language in a fast and sustainable way. It seems that my competitors only see the result of my work, the results of my students and are afraid to loose some part of the market. This is certainly justified but in fact the success belongs to my students. And somewhere inside of myself there still is this little boy happy to see the bright eyes around him.."
+  pedagogy:
+    title: "Pedagogy"
+    passage1: "Hands-on training is an approach enabling you to learn a new language in a fast and sustainable way. Hands-on training is:"
+    bullet1: "Holistic: This refers to each learner's overall personality. Learning has cognitive, emotional and practical dimensions, during the learning process thoughts and actions are interconnected. The contents are always put in a meaningful context."
+    bullet2: "Centered on active student: During the planning, implementation and assessment the the learner's experience and interests are taken in consideration. This enables learners to independently acquire knowledge to solve problems and make decisions on assessments."
+    bullet3: "Centered on the content: The focus of the teaching process is agreed between the teacher and the students and during learning worked out by the whole group."
+    bullet4: "Process-oriented: The joint action is paramount. Learners think, plan, discuss, make and assess  decisions as a team (learning by doing)."
+  levels:
+    title: Levels
+    subtitle1: "A1 Survival – what you need to survive"
+    text1: "The first module provides students  with elementary grammar rules. So they can easily gain basic  knowledge  to face standard situations in a restaurant and while traveling. To find something to eat or a night accommodation won't be difficult either."
+    subtitle2: "A2 Waystage – what you need for every day life"
+    text2: "Using standard idiomatic expressions you are doing better and better. You know elementary grammar  rules and have a solid basic vocabulary. In the end of the training you will be able to treat simple  business tasks. You can easily speak about personal topics, your family and your work."
+    subtitle3: "B1 Upper Waystage – what you need for small talk"
+    text3: "All essential grammar constructions and a wide vocabulary are on stand by. There is no more reason to  avoid professional and social discussions. At this point there isn't any reason to avoid professional or social discussions concerning familiar  topics. You are developing your expression more and more. Your vocabulary is constantly consolidated  and enlarged."
+    subtitle4: "B2 Threshold – what you need to conquest new land"
+    text4: "After this level you are mastering all grammar structures and you have a large vocabulary enabling you  to handle not familiar for you topics. You are communicating in a fluent way in all common situations  and you are able to understand and use idiomatic expressions. Business trips and spontaneous  professional meetings aren't a problem for you anymore."
+    subtitle5: "C1 Milestone – what you need to convince"
+    text5: "You are fluent in every situation and able to react correct and quickly to complicated things. During professional meetings you become a confident leader and prove your point of view in conflict  situations.  At this point you understand how to handle some registered language – it could be written expression,  colloquial language or nice idiomatic expression ­ you are able to express yourself correctly."
+    subtitle6: "C2 Mastery – all you need to know"
+    text6: "You can understand complicated discussion in every situation without a problem. At any time you are  communicating in everyday life and in business with self confidence and have pleasure to participate in controvertible discussions."
+ 
   routes:
     vision: My-Vision
+    pedagogy: Pedagogy
+    levels: Levels

@@ -9,7 +9,7 @@
     .off-canvas-wrapper
       .off-canvas-wrapper-inner{:"data-off-canvas-wrapper" => true}
         .off-canvas.position-left#leftMenu{:"data-off-canvas" => true}
-          This is the menu
+          =render 'layouts/sidemenu'
         .off-canvas-content#site{:"data-off-canvas-content" => true}
           =render "layouts/topbar"     
           .row
