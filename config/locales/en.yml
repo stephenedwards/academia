@@ -22,9 +22,10 @@
 en:
   menu:
     home: Home
-    vision: My Vision
+    vision: Vision
     pedagogy: Pedagogy
     levels: Levels
+    courses: Courses
   home:
     title: "Here is the fitting language course for you! "
     passage1: "Private customers want to be operational as fast as possible and use their new language competences in a sustainable way-"
@@ -35,7 +36,7 @@ en:
     title2: "The most important has always been there. Your talent and your passion."
     title3: A customized language program.
   vision: 
-    title: My Vision
+    title: Vision
     passage1: "In school, when I was a little boy, I already was different from my class mates. I was completely different and I always had the desire to inspire others. Seeing the bright eyes of my friends when they were building their sand castles was making me happy.\n\r And this wish to inspire others brought me to set up a concept allowing children, teenagers and adults to learn a language in a fast and sustainable way. It seems that my competitors only see the result of my work, the results of my students and are afraid to loose some part of the market. This is certainly justified but in fact the success belongs to my students. And somewhere inside of myself there still is this little boy happy to see the bright eyes around him.."
   pedagogy:
     title: "Pedagogy"
@@ -58,8 +59,27 @@ en:
     text5: "You are fluent in every situation and able to react correct and quickly to complicated things. During professional meetings you become a confident leader and prove your point of view in conflict  situations.  At this point you understand how to handle some registered language – it could be written expression,  colloquial language or nice idiomatic expression ­ you are able to express yourself correctly."
     subtitle6: "C2 Mastery – all you need to know"
     text6: "You can understand complicated discussion in every situation without a problem. At any time you are  communicating in everyday life and in business with self confidence and have pleasure to participate in controvertible discussions."
- 
+  courses: 
+    title: Courses
+    title2: Your needs come first
+    passage2-1: "At first a clear analysis of Course participants' needs is carried out:"
+    list2-1-1: "what your goals are, what situations you want to master" 
+    list2-1-2: "what skills and language competences you need to build on"
+    passage2-2: "This means that teaching is tailored to your personal language goals"
+    passage2-3: "The material covered in the classes is defined by your prior knowledge and learning objectives. That means that your teacher will plan a course built around your requested contents and geared to your needs. This will ensure rapid and efficient progress."
+    title3: Individual course
+    passage3-1: "You learn a foreign <i>language</i> most effectively in an intensive, <i>individual course</i>"
+    title4: Duo course
+    passage4-1: "Share the pleasure of learning and share the cost of your training as well"
+    title5: Small group classes
+    subtitle5: for those who want to learn in a team
+    list5-1-1: "<b>General Language Courses</b> from level A1 to level C2"
+    list5-1-1-text: "If you want to to chat on holiday or with your new acquaintances in a new language, this is the right course for you."
+    list5-1-2: "<b>Examination Preparation Courses</b>, such as Luxembourgish and German for aspiring lawyers or Luxembourgish for obtaining Luxembourg nationality. If you have career ambitions or wish to integrating into society, you find the right course here."
+    list5-1-3: "<b>Language Courses for Specific Purposes</b> as of level B1, such as oral and written correspondence."
+    list5-1-3-text: "For those who want to convince with oral and written communication."
   routes:
-    vision: My-Vision
+    vision: Vision
     pedagogy: Pedagogy
     levels: Levels
+    courses: Courses

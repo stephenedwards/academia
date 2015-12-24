@@ -10,6 +10,7 @@ Rails.application.routes.draw do
       get 'vision', :to => "vision#index"
       get 'pedagogy', :to => "pedagogy#index"
       get 'levels', :to => "levels#index"
+      get 'courses', :to => "courses#index"
     end
   end
 
