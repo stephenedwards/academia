@@ -9,3 +9,7 @@ Rails.application.config.assets.version = '1.0'
 # Precompile additional assets.
 # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
 # Rails.application.config.assets.precompile += %w( search.js )
+Rails.application.config.assets.precompile += %w( foundation-icons/foundation-icons.eot )
+Rails.application.config.assets.precompile += %w( foundation-icons/foundation-icons.woff )
+Rails.application.config.assets.precompile += %w( foundation-icons/foundation-icons.ttf )
+Rails.application.config.assets.precompile += %w( foundation-icons/foundation-icons.svg )

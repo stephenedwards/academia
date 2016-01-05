@@ -1,7 +1,13 @@
 .row
   .header
-    .small-12.columns
-      =image_tag "logo-academia.png"
+    .small-6.columns
+      =link_to url_for(:controller => "home", :action => "index") do 
+        =image_tag "logo-academia.png"
+    .small-6.columns
+      %ul.language-select
+        %li
+          =link_to url_for(:controller => params[:controller], :action => params[:action], :locale => "fr") do
+            ="FR"   
   .sticky-wrapper#anchortop{:"data-sticky-container" => true}
     .top-bar.sticky{:"data-sticky" => true, :"data-top-anchor" => "anchortop", :"data-btm-anchor" => "site:bottom", :"data-options" => "marginTop:0;stickyOn:small"}
       .top-bar-left

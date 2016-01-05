@@ -3,21 +3,33 @@
     %h3 Sitemap
     %ul
       %li
-        =link_to 'Home', '#'
+        =link_to t('menu.home'), url_for(:controller => "home", :action => "index")
+      %li
+        =link_to t('menu.vision'), url_for(:controller => "vision", :action => "index")
+      %li
+        =link_to t('menu.pedagogy'), url_for(:controller => "pedagogy", :action => "index")
+      %li
+        =link_to t('menu.courses'), url_for(:controller => "courses", :action => "index")
+      %li
+        =link_to t('menu.levels'), url_for(:controller => "levels", :action => "index")
+      %li
+        =link_to t('menu.contact'), '#'
 .small-12.medium-4.columns
   %p
     %h3 Social
     %ul
       %li
-        =link_to 'Home', '#'
+        =link_to "https://www.linkedin.com/in/jean-paul-piazzolla-699b5916" do
+          =image_tag "linkedin.png"
 .small-12.medium-4.columns
   %p
     %h3 Contact
-    %ul
-      %li
-        =link_to 'Home', '#'
+    Jean-Paul Piazzolla
+    %br
+    %i.fi-telephone
+    +352 661 197 919
 .small-12.columns
   %p
-    %h3 &copy; Academia
+    %h3 &copy; academia
   %p
     %small Website created by Stephen Edwards
