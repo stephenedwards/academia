@@ -80,6 +80,14 @@ en:
     list5-1-2: "<b>Examination Preparation Courses</b>, such as Luxembourgish and German for aspiring lawyers or Luxembourgish for obtaining Luxembourg nationality. If you have career ambitions or wish to integrating into society, you find the right course here."
     list5-1-3: "<b>Language Courses for Specific Purposes</b> as of level B1, such as oral and written correspondence."
     list5-1-3-text: "For those who want to convince with oral and written communication."
+  contact:
+    title: "Contact"
+    name: "Name"
+    phonenumber: "Phonenumber"
+    email: "Email"
+    message: "Message"
+    send: "Send Message"
+    message_sent: "Message sent"
   routes:
     vision: Vision
     pedagogy: Pedagogy

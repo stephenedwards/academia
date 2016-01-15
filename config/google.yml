@@ -1,0 +1,13 @@
+default: &default  
+  sitekey: "6LdgdxUTAAAAAECwAHZmCjKMgyy46Yh2JTjJ458A"
+  secretkey: "6LdgdxUTAAAAAN00dPXadmJ5DAm_cAXI6EOhrIeV"
+  verifyurl: "https://www.google.com/recaptcha/api/siteverify"
+  ga-endpoint: "http://www.google-analytics.com/collect"
+  ga-v: "1"
+  ga-property: ""
+development: 
+  <<: *default
+test: 
+  <<: *default
+production: 
+  <<: *default

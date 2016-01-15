@@ -4,15 +4,18 @@ Rails.application.routes.draw do
 
   # You can have the root of your site routed with "root"  
   
-  scope "(:locale)", locale: /#{I18n.available_locales.join('|')}/ do
-    get '/', :to => "home#index"
+  
+    
     localized do
+      get '/', :to => "home#index"
       get 'vision', :to => "vision#index"
       get 'pedagogy', :to => "pedagogy#index"
       get 'levels', :to => "levels#index"
       get 'courses', :to => "courses#index"
+      get 'contact', :to => "contact#index"
+      post 'contact', :to => "contact#index"
     end
-  end
+ 
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

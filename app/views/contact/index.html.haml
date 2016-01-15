@@ -1,0 +1,42 @@
+.contact-wrapper
+  .small-12.columns
+    %h1=t('contact.title')
+    %form{:method => "POST"}
+      %input{:type=>"hidden", :name=>"authenticity_token", :value=>form_authenticity_token.to_s}
+      .row
+        %small-12.medium-3.columns
+          %label{:for => "name"}
+            =t('contact.name')
+        %small-12.medium-9.columns
+          %input#name{:type => "text", :name => "name"}
+      .row
+        %small-12.medium-3.columns
+          %label{:for => "email"}
+            =t('contact.email')
+        %small-12.medium-9.columns
+          %input#email{:type => "text", :name => "email"}
+      .row
+        %small-12.medium-3.columns
+          %label{:for => "phonenumber"}
+            =t('contact.phonenumber')
+        %small-12.medium-9.columns
+          %input#phonenumber{:type => "text", :name => "phonenumber"}
+      .row
+        %small-12.medium-3.columns
+          %label{:for => "message"}
+            =t('contact.message')
+        %small-12.medium-9.columns
+          %textarea#message{:name => "message", :rows => "4"}
+      .row
+        %small-12.medium-9.columns.medium-offset-3
+          .g-recaptcha{:"data-sitekey" => "6LdgdxUTAAAAAECwAHZmCjKMgyy46Yh2JTjJ458A"}
+      .row
+        %small-12.medium-9.columns.medium-offset-3
+          %input.button{:type => "submit", :value => t('contact.send')}
+  -if @message_sent
+    #contactMessageSuccess.reveal
+      %p
+        =t('contact.message_sent')
+      %button.close-button{:"data-close" => true, :"aria-label" => "Close reveal", :type => "button"}
+        %span{:"aria-hidden" => "true"}
+          &times;
