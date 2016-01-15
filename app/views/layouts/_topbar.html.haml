@@ -5,9 +5,10 @@
         =image_tag "logo-academia.png"
     .small-6.columns
       %ul.language-select
-        %li
-          =link_to url_for(:controller => params[:controller], :action => params[:action], :locale => "fr") do
-            ="FR"   
+        -I18n.available_locales.each do |locale|
+          %li
+            =link_to url_for(:controller => params[:controller], :action => params[:action], :locale => locale.to_s) do
+              =image_tag locale.to_s.upcase+'.png', :width => 30
   .sticky-wrapper#anchortop{:"data-sticky-container" => true}
     .top-bar.sticky{:"data-sticky" => true, :"data-top-anchor" => "anchortop", :"data-btm-anchor" => "site:bottom", :"data-options" => "marginTop:0;stickyOn:small"}
       .top-bar-left

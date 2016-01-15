@@ -24,6 +24,17 @@ body, .off-canvas-content{
   position:fixed !important;
 }
 
+.header{
+  ul.language-select{
+    float:right;
+    li{
+      float:left;
+      list-style-type:none;
+      margin-left:15px;
+    }
+  }
+}
+
 .row{
   .content{
     overflow:hidden;
