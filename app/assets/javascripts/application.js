@@ -12,7 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
 //= require_tree .
 //= require foundation/foundation.min
 //= require foundation/foundation.util.mediaQuery

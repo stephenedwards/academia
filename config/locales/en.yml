@@ -27,15 +27,14 @@ en:
     levels: Levels
     courses: Courses
     contact: Contact
-  home:
-    title: "The most important has always been there."
-    subtitle: "Your talent and your passion."
+  home:    
+    title: '<span class="green">Your</span> <span class="orange">talent</span> <span class="green">and</span> <span class="orange">passion</span><br /><span class="green">have always been there</span>'
     passage1: "Private customers want to be operational as fast as possible and use their new language competences in a sustainable way-"
     passage2: "Employees should be able to use the new language quickly in business."
     passage3: "The academia objective is to make students confident and well versed when preparing any professional mission. Learners are enabled to use the new language in a business environment right away. They become <b>rapidly operational</b> and thus <b>highly motivated</b>."
     passage4: "The content is designed to <b>prepare students quickly</b> and ensure that their skills remain effective, up-to-date, and on target. A variety of <b>on-the-job tools</b> help them succeed in any professional situation."
     passage5: "A wide range of on-the-job tools prepares students to communicate effectively in a business environment:"
-    title2: "Here is the fitting language course for you!"    	
+    title2: "Here is the fitting language course for you!"
     title3: A customized language program.
   vision: 
     title: Vision

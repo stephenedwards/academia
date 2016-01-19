@@ -1,12 +1,7 @@
 .home-wrapper  
   .banner-wrapper{:style => "background-image: url('"+image_url('banner1.jpg')+"');"}    
     .text
-      %span{:style => "color:#b2d79a;"} Your
-      %span{:style => "color:#e89100;"} talent
-      %span{:style => "color:#b2d79a;"} and
-      %span{:style => "color:#e89100;"} passion
-      %br
-      %span{:style => "color:#b2d79a;"} have always been there              
+      =t('home.title').html_safe
   .small-12.columns    
     %h1=t('home.title2')
     %p=t('home.passage1').html_safe

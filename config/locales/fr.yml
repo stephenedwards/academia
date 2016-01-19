@@ -1,2 +1,132 @@
 fr:
-  
+  menu:
+    home: Acceuil
+    vision: Vision
+    pedagogy: Pédagogie
+    levels: Compétences
+    courses: Cours
+    contact: Contact
+  home:
+    title: <span class="green">Le plus important a toujours été là</span><br /><span class="green">votre <span class="orange">talent</span> et votre <span class="orange">passion</span></span>
+    passage1: Comme personne privée vous voulez avoir du succès dès le début et <b>pouvoir utiliser vos compétences en langues  de façon durable.</b>
+    passage2: "Les employé/es devront être en mesure d'<b>utiliser rapidement leur\
+      \ nouvelle langue dans le milieu professionnel.</b>"
+    passage3: "Pour cela les apprenants doivent être hautement motivés et rapidement\
+      \ être en mesure de s’intégrer dans des nouveaux champs d'activités."
+    passage4: 'Le contenu des formations est tel que les compétences peuvent rapidement
+      être développées. Ces compétences correspondent aux références actuelles et
+      ont un objectif pédagogique précis et durable. '
+    passage5: Un large éventail de cours de langues vous prépare à communiquer avec plaisir dans la vie professionnelle et privée
+    title2: Ici se trouve le cours de langue correspondant pour vous!
+    title3: "Un programme d'apprentissage de langues sur mesure!"
+  vision:
+    title: Vision
+    passage1: "A  l'école, quand j'étais un petit garçon, j'étais déjà différent de\
+      \ mes amis de classe. J'étais tout à fait différent et j'avais toujours le dé\
+      sir d’inspirer les autres. Voir les yeux brillants de mes amis quand ils fabriquaient\
+      \ leur château de sable me rendait heureux-\n\nEt cette volonté d'inspirer les\
+      \ autres m'a fait développer un concept qui permet aux enfants, aux adolescents\
+      \ et aux adultes d'apprendre une langue de façon rapide et durablement.\n\n\
+      Mes participants de marché ne voient que les fruits de mon travail, le succè\
+      s de mes apprenants et ont peur de perdre des parts de marché. Cela est certainement\
+      \ justifié mais ce sont en fait mes apprenants auxquels appartient le mérite.\n\
+      \nEt en moi, il y a toujours ce petit garçon qui se réjouit de voir les yeux\
+      \ brillants des gens autour de lui...\n"
+  pedagogy:
+    title: Pédagogie
+    passage1: "L'apprentissage par action vous permet d'apprendre une nouvelle langue\
+      \ rapidement et de façon durable.\n\nL'apprentissage par action est :\n\n"
+    bullet1: "Général: cette caractéristique se base sur la personnalité de chaque\
+      \ apprenant. L'apprentissage a des dimensions cognitives, émotionnelles et pratiques.\
+      \ Pendant l'apprentissage les activités cognitives et les actions sont interconnecté\
+      s. Ainsi le contenu est mis en relation avec des contextes concrets."
+    bullet2: "Active et basé sur l'apprenant. Lors de la planification, l’exécution\
+      \ et l’évaluation des leçons les expériences et les intérêts  de l'apprenant\
+      \ sont pris en considération. En même temps l'apprenant est stimulé à apprendre\
+      \ de façon autonome, résoudre des problèmes, de prendre et d'évaluer par la\
+      \ suite ses décisions."
+    bullet3: "Basé sur le contenu: au centre du processus d'apprentissage se trouve\
+      \ le contenu. Celui-ci a été convenu au préalable entre l'enseignant et l'apprenant\
+      \ et est valable pour chaque membre du groupe."
+    bullet4: "Basé sur le processus: l'action commune se trouve au premier plan. Les\
+      \ apprenants réfléchissent en équipe, planifient, débattent, prennent des dé\
+      cisions et s’entre-aident réciproquement"
+  levels:
+    title: Niveaux
+    subtitle1: "A1 Niveau de survie-\_qu'on a besoin pour survivre"
+    text1: "Ce module a pour objectif d'établir les compétences de bases importantes\
+      \ en grammaire et un premier\_champ lexical pour affronter de façon optimale\
+      \ des situations standard lors de voyage et au restaurant.\nQue vous ayez besoin\
+      \ de manger ou de dormir- vous\nl'aurez."
+    subtitle2: "A2 Niveau intermédiaire­ ce qu'on a besoin pour le quotidien"
+    text2: "A partir de ce module vous disposez de suffisamment de connaissances pour\
+      \ exister dans la vie de tous les jours. Vous maîtrisez les structures grammaticales\
+      \ essentielles ainsi qu'un vocabulaire plus étendu. Vous êtes en mesure de ré\
+      pondre aux exigences professionnelles simples et dans le domaine privé vous\
+      \ êtes capable de parler de vos intérêts personnels, du travail et de votre\
+      \ famille."
+    subtitle3: "B1 Intermédiaire confirmé­ ce qu'on a besoin pour la courtoisie"
+    text3: "Toutes les constructions grammaticales importantes et un vocabulaire é\
+      tendu sont maintenant disponibles. Il n'y a plus aucune raison d'éviter des\
+      \ discussion concernant des thèmes familier ou professionnels. Vous vous sentez\
+      \ de plus en plus capable de vous extérioriser. Votre champ lexical est en é\
+      volution et se solidifie constamment."
+    subtitle4: "B2 Niveau seuil– ce qu'on a besoin pour conquérir de nouvelles terres"
+    text4: "Après ce module vous maîtriser toutes les structures grammaticales et\
+      \ un champ lexical permettant de dialoguer mêmes dans des situations inattendues.\
+      \ Vous communiquez de façon courante dans toutes les situations standard et\
+      \ vous êtes en mesure d'appliquer correctement la langue informelle et des tournures\
+      \ idiomatiques. Les déplacements professionnels et des entretiens spontanés\
+      \ ne représentent plus aucun obstacle."
+    subtitle5: "C1 Supérieur­ ce qu'on a besoin pour convaincre"
+    text5: "Vous parlez de façon courante dans toutes les situations du quotidien\
+      \ et même lorsqu'il s'agit de situations complexes, vous savez vous en sortir.\
+      \ Au courant de réunions professionnelles vous vous transformez en meneur de\
+      \ discussion adroit et témoignez d'adresse exemplaire dans des discussions controverses.\
+      \ Parce que vous savez comment utiliser toutes les différentes facettes de la\
+      \ langue: à partir de l'expression écrite jusqu'à une expression orale soutenue\
+      \ en passant par de la rhétorique."
+    subtitle6: "C2 Maîtrise­ tous ce qu'on a besoin de savoir"
+    text6: "Vous êtes capable de suivre et de mener des discours complexes dans toutes\
+      \ les situations de la vie. Dans la vie sociale et professionnelle votre communication\
+      \ est rassurante et c'est avec plaisir que vous évoquez des thèmes controverse."
+  courses:
+    title: Cours
+    title2: Vos besoins viennent d’abord 
+    passage2-1: 'Tout commence avec une analyse claire de vos objectifs pédagogiques
+      :'
+    list2-1-1: quels sont vos besoins, dans quelles situations spécifiques voulez-vous utiliser votre 
+    list2-1-2: quels capacités et compétences devez-vous utiliser
+    passage2-2: "Ceci signifie que l'apprentissage est fait sur mesure afin de correspondre\
+      \  à vos besoins spécifiques."
+    passage2-3: Le matériel utilisé pendant votre formation est sélectionné selon vos compétences déjà présentes et vos objectifs précis. Cela veut dire que votre professeur va orienter votre cours selon le contenu désiré et vos besoins spécifiques, ce qui garanti une progression rapide et efficace.
+    title3: Cours individuels
+    passage3-1: Vous apprenez une nouvelle langue le mieux et le plus rapidement en cours intensif individuel  
+    title4: Cours duo
+    passage4-1: Partagez le plaisir de la progression et les frais avec un partenaire  
+    title5: Cours de langue en petit groupe
+    subtitle5: pour tous ceux qui aiment le travail d’équipe
+    list5-1-1: <b>Cours de langue générale</b> du niveau A1 au niveau C2
+    list5-1-1-text: "Si vous voulez utiliser votre nouvelle langue pendant les vacances\
+      \ ou pour discuter avec une nouvelle connaissance, c'est le cours idéal pour\
+      \ vous."
+    list5-1-2: "<b>Préparation d'examen</b>, comme par exemple luxembourgeois ou allemand\
+      \ pour futur avocats, ou bien cours de luxembourgeois en vue de votre naturalisation.\_\
+      Si vous avez des ambitions professionnelles ou si votre objectif est celui de\
+      \ vous intégrer dans la société, c'est le cours qu'il vous faut."
+    list5-1-3: <b>Cours de langue pour objectifs spécifiques</b> à partir du niveau B1, comme par exemple cours de correspondance orale et écrite.
+    list5-1-3-text: Pour tous ceux qui veulent convaincre avec une communication efficace.
+  contact:
+    title: Contact
+    name: Nom
+    phonenumber: Numéro téléphone
+    email: Adresse email
+    message: Message
+    send: Envoyer message
+    message_sent: Message envoyé
+  routes:
+    vision: Vision
+    pedagogy: Pedagogie
+    levels: Niveaux
+    courses: Cours
+    contact: Contact
