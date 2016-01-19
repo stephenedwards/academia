@@ -2,10 +2,15 @@
 %html
   %head
     %title academia - Here is the fitting language course for you!
-    %meta{ name: "viewport", content: "width=device-width, initial-scale=1, maximum-scale=1" }
+    %meta{ name: "viewport", content: "width=device-width, initial-scale=1, maximum-scale=1" }    
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true    
     = javascript_include_tag 'https://www.google.com/recaptcha/api.js'
     = csrf_meta_tags
+    -I18n.available_locales.each do |locale|
+      %link{:content => url_for(:locale => locale.to_s), :hreflang => locale.to_s, :rel => "alternate"}
+    %meta{:name => "language", :content => I18n.locale}
+    %link{:rel => "shortcut", :href => "/favicon.ico", :type => "image/x-icon"}
+    %link{:rel => "icon", :href => "/favicon.ico", :type => "image/x-icon"}
   %body
     .off-canvas-wrapper
       .off-canvas-wrapper-inner{:"data-off-canvas-wrapper" => true}
