@@ -1,0 +1,103 @@
+de:
+  menu:
+    home: Home
+    vision: Vision
+    pedagogy: Pädagogie
+    levels: Stufen
+    courses: Kurse
+    contact: Kontakt
+  home:
+    title: <span class="green">Das Wichtigste war schon immer da<br />Ihr <span class="orange">Talent</span> und ihre <span class="orange">Leidenschaft</span></span>
+    passage1: Als Privatperson möchten Sie so schnell wie möglich Erfolg haben und <b>ihre neuen Sprachkompetenzen nachhaltig nutzen können.</b>
+    passage2: Angestellte sollten ihre neue Sprache <b>schnell im beruflichen Umfeld einsetzen können.</b>
+    passage3: Das Ziel von academia ist seine Schüler von Anfang an zu ermöglichen selbstbewusst und eigenständig   berufliche Herausforderungen zu meistern. Von Anfang an sind die Lernenden fähig ihre neue Sprache im professionellen Umfeld zu benutzen. Sie werden somit <b>schnell einsatzfähig</b> und dies mit der nötigen <b>hohen Motivation.</b>
+    passage4: Der Inhalt ist so gestaltet, die Lernenden schnell vorzubereiten und sicher zu stellen, dass ihre Fähigkeiten effektiv, aktuell und zielgerichtet bleiben. Eine Vielzahl von berufsspezifischen Hilfsmitteln hilft ihnen jegliche professionelle Situation zu meistern.
+    passage5: Eine große Auswahl von berufsspezifischen Hilfsmitteln bereitet die Lernenden daruaf vor in einem beruflichen Umfeld zu kommunizieren.
+    title2: Hier ist der passende Sprachkurs für Sie!
+    title3: Ein maßgeschneidertes Sprach -lernprogramm!
+  vision:
+    title: Vision
+    passage1: |
+      In der Schule, als ich noch ein Kind war, habe ich mich schon von meinen Mitschülern unterschieden. Ich war ganz anders und wollte andere immer inspirieren. Wenn meine Freunde beim Sandburgen bauen leuchtende Augen hatten habe ich mich gefreut.
+
+      Und dieser Wunsch, andere zu inspirieren hat mich dazu gebracht ein Konzept aufzubauen das Kindern, Jugendlichen und Erwachsenen neue Wege aufzeigt eine Sprache schnell und nachhaltig zu lernen.
+
+      Meine Mitbewerber sehen immer nur die Früchte meiner Arbeit, die Erfolge meiner Schüler und fürchten um Marktanteile. Dies ist sicher teilweise berechtigt aber eigentlich sind es ja meine Schüler, denen der Erfolg zukommt.
+
+      Und ich bin immer noch der kleine Junge, der möchte, dass die anderen leuchtende Augen bekommen…
+  pedagogy:
+    title: Pädagogie
+    passage1: |
+      Handlungsorientiertes Lernen ist ein Ansatz der Ihnen ermöglicht eine neue Sprache schnelle und nachhaltig zu lernen.
+
+      Handlungsorientiertes Lernen ist somit:
+    bullet1: 'Ganzheitlich: Dieses Merkmal bezieht sich auf die Gesamtpersönlichkeit
+      des Lernenden. Das Lernen hat kognitive, emotionale und praktische Dimensionen.
+      Während dem Lernprozess werden Tun und Denken miteinander verbunden. Dabei werden
+      die Inhalte in einen sinnvollen Zusammenhang gebracht.'
+    bullet2: 'Lerner-aktiv und lernzielorientiert: Die Erfahrungen und Interessen
+      der Lernenden werden bei der Planung, Durchführung und Auswertung des Unterrichts
+      berücksichtigt. Dies befähigt die Lernenden, sich selbständig Wissen  anzueignen,
+      Probleme zu lösen und Entscheidungen zu treffen und zu erproben.'
+    bullet3: 'Kontent-orientiert: Im Mittelpunkt des Unterrichtsprozesses steht der
+      Inhalt, das Produkt, der zwischen dem Lehrenden und Lernenden vereinbart und
+      von der ganzen Gruppe erarbeitet wird.'
+    bullet4: 'Prozessorientiert: Das gemeinsame Handeln steht im Vordergrund. Die
+      Lernenden überlegen, planen, diskutieren, treffen und erproben Entscheidungen
+      im Team (Learning by doing).'
+  levels:
+    title: Stufen
+    subtitle1: A1 Survival - was man zum Überleben braucht
+    text1: Im ersten Modul werden Basisvokabular und elementare Regeln der Grammatik vermittelt. So werden schnell und unkompliziert wichtige Basiskenntnisse aufgebaut, die Sie auf gängige Situationen während einer Reise oder im Restaurant optimal vorbereiten. Egal also, ob Sie etwas zum Essen bestellen oder ein Dach über dem Kopf brauchen – Sie bekommen es.
+    subtitle2: A2 Waystage - was man für den Alltag braucht
+    text2: Ab diesem Modul machen Sie sich mit Hilfe von einfachen Redewendungen das Leben schon erheblich leichter. Sie beherrschen wichtige grammatikalische Strukturen und besitzen einen guten Grundwortschatz. Sie können nach dem Modul nun einfache Geschäftsanforderungen bearbeiten und auch privat über persönliche Interessen, die Arbeit und Familie sprechen.
+    subtitle3: B1 Upper Waystage - was man zum Small Talk braucht
+    text3: Alle wichtigen grammatikalischen Konstruktionen und ein erweitertes Vokabular stehen zur Verfügung. Es gibt also keinen Grund mehr, beruflichen und sozialen Diskussionen in vertrauten Themenbereichen aus dem Weg zu gehen. Verbal können Sie nun mehr und mehr aus sich herausgehen. Ihr Wortschatz wird kontinuierlich gefestigt und erweitert.
+    subtitle4: B2 Threshold - was man für Neuland braucht
+    text4: Nach diesem Modul beherrschen Sie alle grammatikalischen Strukturen und besitzen einen breiten Wortschatz, mit dem Sie auch in nicht vertraute Themengebiete sehr schnell hineinwachsen. Sie kommunizieren fließend in allen gängigen Sprechsituationen und verstehen es im Allgemeinen, Umgangssprache und idiomatische Redewendungen richtig anzuwenden. Geschäftsreisen und spontane Verhandlungen sind dabei schon bald kein großes Thema mehr.
+    subtitle5: C1 Milestone - was man zur Überzeugung braucht
+    text5: 'Sie sprechen fließend in allen Alltagssituationen und wissen selbst in
+      komplexeren Angelegenheiten schnell weiter. In geschäftlichen Sitzungen werden
+      Sie zum gewandten Wortführer und beweisen auch in konfliktreichen Momenten das
+      richtige Verhandlungsgeschick. Denn Sie verstehen es nun, diverse Sprachregister
+      zu ziehen: von der Schriftsprache über die Umgangssprache bis hin zu ausschmückenden
+      Redewendungen drücken Sie sich sicher aus.'
+    subtitle6: C2 Mastery - alles, was man wissen muss
+    text6: Komplexe Diskurse in allen Lebenslagen können Sie problemlos verstehen und führen. Sie kommunizieren im Alltag und im Geschäftsleben jederzeit sicher und erörtern mit großer Freude auch äußerst kontroverse Themen.
+  courses:
+    title: Kurse
+    title2: Ihre Bedürfnisse stehen an erster Stelle
+    passage2-1: 'Am Anfang wird eine klare Analyse der Lernziele ausgeführt:'
+    list2-1-1: welche Bedürfnisse haben Sie, in welchen spezifischen Situationen möchten Sie Ihre Sprache benutzen
+    list2-1-2: welche Fähigkeiten und Kompetenzen müssen Sie entwickeln
+    passage2-2: Dies bedeutet, dass das Lernen auf Ihre  persönlichen Bedürfnisse maßgeschneidert wird.
+    passage2-3: Das während dem Sprachtraining benutzte Material wird anhand Ihrer  Vorkenntnisse und Lernzielen ausgewählt. Das heißt, dass Ihr Lehrer Ihren Kurs anhand der gewünschten Inhalte sowie Ihrer Bedürfnisse ausrichtet. Dies garantiert eine schnelle und effiziente Progression.
+    title3: Individual- Kurse
+    passage3-1: Sie lernen eine <i>Fremdsprache</i> am schnellsten und am besten in einem intensiven <i>Individualkurs</i>
+    title4: Duo Kurse
+    passage4-1: Teilen Sie die Freude am Lernen und die Kosten mit Ihrem Lernpartner
+    title5: Sprachkurse in kleinen Gruppen 
+    subtitle5: für alle die gerne im Team lernen möchten
+    list5-1-1: <b>Allgemein Sprachkurse</b> von der Niveaustufe A1 bis C2
+    list5-1-1-text: Wenn Sie sich im Urlaub oder mit der netten Bekannten in einer neuen Sprache unterhalten möchten ist dies der richtige Kurs für Sie.
+    list5-1-2: |+
+      <b>Examensvorbereitung</b>, wie zum Beispiel Luxemburgisch und Deutsch für angehende Anwälte oder luxemburgisch zum Erlangen der luxemburgischen Nationalität.
+
+      Wenn Sie berufliche Ambitionen haben oder sich in die Gesellschaft integrieren möchten finden Sie hier den richtigen Kurs.
+
+    list5-1-3: <b>Sprachkurse für spezifische Bedürfnisse</b> ab Niveaustufe B1 wie zum Beispiel mündliche und schriftliche Korrespondenz.
+    list5-1-3-text: Für alle, die mit effektiver Kommunikation überzeugen möchten.
+  contact:
+    title: Kontakt
+    name: Name
+    phonenumber: Telefonnummer
+    email: Email
+    message: Nachricht
+    send: Nachricht senden
+    message_sent: Nachricht gesendet
+  routes:
+    vision: Vision
+    pedagogy: Paedagogie
+    levels: Stufen
+    courses: Kurse
+    contact: Kontakt
