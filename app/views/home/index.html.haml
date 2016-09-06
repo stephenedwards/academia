@@ -4,14 +4,14 @@
       =t('home.title').html_safe
   .small-12.columns    
     %h1=t('home.title2')  
-  .small-6.columns    
+  .small-12.medium-6.columns    
     -if params[:locale] == "en"
       %iframe{:src => "https://www.youtube.com/embed/cT105SSuIl0", :frameborder => "0", :allowfullscreen => true, :style => "width:100%; height:300px"}  
     -elsif params[:locale] == "fr"
       %iframe{:src => "https://www.youtube.com/embed/D_4bWtBouI4", :frameborder => "0", :allowfullscreen => true, :style => "width:100%; height:300px"}
     -else
       %iframe{:src => "https://www.youtube.com/embed/XlvrS7LXKnk", :frameborder => "0", :allowfullscreen => true, :style => "width:100%; height:300px"}      
-  .small-6.columns
+  .small-12.medium-6.columns
     %p=t('home.passage1').html_safe
     %p=t('home.passage2').html_safe
   .small-12.columns
