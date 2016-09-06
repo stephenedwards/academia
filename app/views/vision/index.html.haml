@@ -1,6 +1,23 @@
 .vision-wrapper
   .small-12.columns    
-    %h1=t('vision.title')
+    %h1=t('vision2.title')
     =image_tag "Jean-Paul.jpg", :class => "headshot"
-    %p
-      %span.pre=t('vision.passage1')
+    
+    -t('vision2.passage1').each do |passage|
+      %p=passage
+      
+    %b=t('vision2.criteria_title')
+    %ul{:style => "list-style-type: cirlce; list-style-position: inside;"}
+      -t('vision2.criteria_list').each do |crit|
+        %li=crit
+        
+    -t('vision2.passage2').each do |passage|
+      %p=passage
+      
+    %b=t('vision2.challenges_title')
+    %ul{:style => "list-style-type: cirlce; list-style-position: inside;"}
+      -t('vision2.challenges_list').each do |challenge|
+        %li=challenge
+        
+    -t('vision2.passage3').each do |passage|
+      %p=passage

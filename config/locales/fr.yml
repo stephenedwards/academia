@@ -32,6 +32,30 @@ fr:
       \ justifié mais ce sont en fait mes apprenants auxquels appartient le mérite.\n\
       \nEt en moi, il y a toujours ce petit garçon qui se réjouit de voir les yeux\
       \ brillants des gens autour de lui...\n"
+  vision2: 
+    title: "Il était une fois... dans un pays où les gens parlent plusieurs langues différentes"
+    passage1:
+      - "Derrière chaque chose se cache une grande histoire. Ben... je ne suis pas certain si ceci est une grande histoire pour vous ou non, mais la voici."
+      - "Mon nom est Jean-Paul Piazzolla. Je vie au Luxembourg au centre de l'Europe et comme la plupart des personnes qui habitent ici, je parle de façon courante plusieurs langues."  
+      - "Pendant mes études en psychologie j'étais enseignant en école primaire et maintenant j'ai plus que 20 ans d'expérience comme coach et enseignant."
+      - "Début 2000 j'ai découvert une nouvelle façon d'apprendre les langues."
+      - "Sans grammaire, sans vocabulaire, sans traduction. Comme beaucoup de personnes j'étais très impressionnée mais comme beaucoup de personnes j'ai remarqué le manque de durabilité de cette méthode selon laquelle on peut apprendre toutes les langues de la même façon."
+      - "Pendant des années j'ai recherché, configuré et appris toutes les méthodes d'enseignement que j'ai pu trouver, mais il n'y a que quelques unes qui correspondaient à mes critères de base:"
+    criteria_title: "Critères"
+    criteria_list:
+      - "le plus facile que possible pour l'apprenant"
+      - "efficace"
+      - "durable"
+    passage2: 
+      - "Après beaucoup de réflexion j'ai décidé d‘utiliser ma propre méthode d'enseignement. Cela paraît en effet très facile, n'est-ce pas? J‘ai pourtant fait l'expérience que de nombreux défis m'attendaient:"
+    challenges_title: "Défis"
+    challenges_list:
+      - "Je n'avais presque aucune idée concernant le marketing et comment attirer des nouveaux clients"
+      - "Presque toutes les méthodes qu'on peut trouver se basent sur l'enseignement frontal. Malgré le fait que l'enseignement frontal est approprié pour représenter un problème et sa solution à partir de la perspective et avec les ressources de l'enseignant, cette méthode ne développe cependant pas la réflexion individuelle des étudiants."
+      - "Il était donc nécessaire de mettre au point une méthode actionnelle, et encadrer chaque élève de façon individuelle."
+    passage3:
+      - "J'ai pris la décision que ceci pourrait bien être un défi intéressant et il s'est montré que c'était bien le cas. Le contact constant avec mes clients me montre qu'ils sont sur le bon chemin avec leur nouvelle langue."
+      - "Ceci me permet de documenter les points élémentaires, de rencontrer de nombreuses personnes intéressantes et avant tout recevoir le retour des personnes auxquelles je peux donner des cours de langues."
   pedagogy:
     title: Pédagogie
     passage1: "L'apprentissage par action vous permet d'apprendre une nouvelle langue\

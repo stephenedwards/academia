@@ -39,6 +39,30 @@ en:
   vision: 
     title: Vision
     passage1: "In school, when I was a little boy, I already was different from my class mates. I was completely different and I always had the desire to inspire others. Seeing the bright eyes of my friends when they were building their sand castles was making me happy.\n\r And this wish to inspire others brought me to set up a concept allowing children, teenagers and adults to learn a language in a fast and sustainable way. It seems that my competitors only see the result of my work, the results of my students and are afraid to loose some part of the market. This is certainly justified but in fact the success belongs to my students. And somewhere inside of myself there still is this little boy happy to see the bright eyes around him.."
+  vision2: 
+    title: "Once upon a time... in a land where people speak many different languages"    
+    passage1: 
+      - "Behind everything, is a great story. Well... I'm not sure if for you this is a great story or not, but here it is."
+      - "My name is Jean-Paul Piazzolla, I live in Luxembourg in the centre of Europe and like most people here I am fluent in several languages."  
+      - "During my studies in psychology I used to be a teacher in primary education and now I am a professional trainer/teacher with 20+ years experience."
+      - "In early 2000, I saw for the first time how languages are taught in a new way."
+      - "Without grammar, without learning word power and without translation. Like many people I was very impressed, but like many people, I realized immediately the lack of sustainable learning with this method claiming you can learn different languages the same way."  
+      - "For years I researched, configured, set up and learned any new teaching method I could find. It turns out there are many, but only a few that met my simple criteria:"
+    criteria_title: "Criteria"
+    criteria_list:
+      - Easy to use for the student
+      - Powerful
+      - Sustainable
+    passage2: 
+      - "So, after much consideration, I decided to start my own teaching method. Sounds easy right? However, as I learned, I had many challenges awaiting me."
+    challenges_title: "Challenges"
+    challenges_list:
+      - I barely knew anything about marketing to attract new clients
+      - Almost all methods that I found were based on frontal teaching. It is well known that frontal teaching is often prefered over other teaching methods, however it is unlikely to get students to think and act in an independent way.
+      - I had to develop an action-oriented method, taking care of each students individual needs to develop his skills and abilities in a sustainable way.
+    passage3:
+      - "I decided it would be an interesting challenge and it was worth attempting. The constant contact with my students is showing me every day that they are on the right track with their new language."
+      - "This allows me to document my key decisions, meet many interesting people, and most importantly, it gives me a direct feedback loop with the community I am serving."
   pedagogy:
     title: "Pedagogy"
     passage1: "Hands-on training is an approach enabling you to learn a new language in a fast and sustainable way. Hands-on training is:"
